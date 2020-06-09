@@ -1,5 +1,7 @@
 ## Resources
 
-_From Code101
-_From Code102
-_From Code201
+_Code 101_
+
+_Code 102_
+
+_Code 201_
